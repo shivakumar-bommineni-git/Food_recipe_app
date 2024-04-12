@@ -1,0 +1,22 @@
+.shiva{
+  color: blue;
+  margin: 30px;
+  font-family: sans-serif, Arial;
+  font-weight: 600;
+  font-size: xx-large;
+
+}
+.button1{
+  margin: 20px;
+  padding: 10px 20px;
+  background-color: blue;
+  color: #f5f5dc;
+  border-radius:15% ;
+  text-decoration: none;
+}
+.button1:hover {background-color:#153857;} 
+.input{
+  padding:10%;
+  border-radius: 10px;
+  border: 3px solid #1f0707;
+}
